@@ -22,7 +22,7 @@ print ('Modulo: ', a % b)
 # a to the power b
 print ('Power: ', a ** b)   
 
-print("Below are the comparison operators")
+print("\n\nBelow are the comparison operators\n")
 # equal to operator
 print('a == b =', a == b)
 
