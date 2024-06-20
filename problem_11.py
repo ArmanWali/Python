@@ -28,3 +28,4 @@ list1 = [1, -3, 5, -7]
 list2 = [2, 4, 6, -8, 0]
 merged_list = merge_sorted_lists(sorted(list1), sorted(list2))
 print(merged_list)  # Output: [1, 2, 3, 4, 5, 6, 7, 8]
+ 
